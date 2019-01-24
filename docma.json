@@ -1,6 +1,10 @@
 {
     "title": "Get-icon-path",
     "src": ["*.js", "DataTypes/*.js", "README.md"],
+    "base": "/get-icon-path",
+    "app": {
+        "base": "/get-icon-path"
+    },
     "dest": "docs/",
     "template": {
         "enabled": true,
