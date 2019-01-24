@@ -1,0 +1,16 @@
+{
+    "title": "Get-icon-path",
+    "src": ["*.js", "DataTypes/*.js", "README.md"],
+    "dest": "docs/",
+    "template": {
+        "enabled": true,
+        "dark": false,
+        "animations": true,
+        "menu": [{
+            "label": "Docs",
+            "iconClass": "fas fa-book",
+            "href": "./"
+
+        }]
+    }
+}
