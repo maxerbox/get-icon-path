@@ -31,6 +31,8 @@ console.log(res, 'Non promised')
 
 ## DOCUMENTATION
 
+[https://maxerbox.github.io/get-icon-path/](https://maxerbox.github.io/get-icon-path/)
+
 ## TO DO
 
 - Herited theme parsing
