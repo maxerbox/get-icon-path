@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Maxerbox",
+  "repository": {
+    "url": "https://github.com/maxerbox/get-icon-path"
+  },
   "license": "ISC",
   "dependencies": {
     "node-gsettings-wrapper": "^0.5.0",
